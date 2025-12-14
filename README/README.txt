@@ -14,3 +14,6 @@ README
 	III- O ESP que recebe os comandos, interpreta e envia para o Arduino do barco.
 	IV - O Arduino conectado aos motores recebe via serial do ESP e escreve os dados lidos nos 2 motores.
 
+- link do vídeo do projeto:
+
+https://www.youtube.com/watch?v=Z8xxszKJ4hY
